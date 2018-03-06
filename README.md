@@ -2,6 +2,16 @@
 
 [link to my CV](CV.pdf)
 
+Assistant Professor
+Yau Mathematical Sciences Center
+Tsinghua University 
+
+Office: Room 135, Jin Chun Yuan West Building Beijing 100084, P.R. China 
+E-mail: jdu@tsinghua.edu.cn
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/JieDU16/JieDU16.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
