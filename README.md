@@ -12,12 +12,9 @@
 [link to my CV](CV.pdf)
 
 
-[editor on GitHub](https://github.com/JieDU16/JieDU16.github.io/edit/master/README.md) 
-
 
 ### Research Interests
-```markdown
-
+```
 - Numerical solutions for PDEs using:
 (1) Finite element discontinuous Galerkin (DG) methods,
 (2) Finite difference weighted essentially non-oscillatory (WENO) methods, 
