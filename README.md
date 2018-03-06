@@ -1,9 +1,10 @@
-![Image](jdu.JPG)
+![Image](jdu.JPG) [Curriculum Vitae](CV.pdf) 
+
 **E-mail:** jdu@tsinghua.edu.cn
 
 **Address:** Room 135, Jin Chun Yuan West Building, Tsinghua University, Beijing 100084, P.R. China 
 
-[Curriculum Vitae](CV.pdf)    
+   
 
 ### Research Interests
 
