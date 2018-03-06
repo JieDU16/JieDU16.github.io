@@ -6,9 +6,9 @@
 
 **Tsinghua University**
 
-**_E-mail_: jdu@tsinghua.edu.cn**
+**E-mail:** jdu@tsinghua.edu.cn
 
-**_Address_: Room 135, Jin Chun Yuan West Building, Tsinghua University, Beijing 100084, P.R. China** 
+**Address:** Room 135, Jin Chun Yuan West Building, Tsinghua University, Beijing 100084, P.R. China 
 
 
 
