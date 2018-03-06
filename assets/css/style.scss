@@ -20,3 +20,12 @@ h2  {
 #header_wrap .inner {
     padding: 50px 10px 0px 10px
 }
+
+#header_wrap {
+    background: rgba(48, 105, 172, 1);
+    background: -moz-linear-gradient(top, rgba(48, 105, 172, 1), #212121);
+    background: -webkit-linear-gradient(top, rgba(48, 105, 172, 1), #212121);
+    background: -ms-linear-gradient(top, rgba(48, 105, 172, 1), #212121);
+    background: -o-linear-gradient(top, rgba(48, 105, 172, 1), #212121);
+    background: linear-gradient(top, #rgba(48, 105, 172, 1), #212121)
+}
