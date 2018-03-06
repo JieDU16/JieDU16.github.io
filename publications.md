@@ -18,8 +18,8 @@
 
 ### Preprint
 
-13. **J. Du**, Yang Yang and E.T. Chung, _Stability analysis and error estimates of local discontinuous Galerkin methods for convection-diffusion equations on overlapped meshes_, submitted to ESAIM: Mathematical Modelling and Numerical Analysis.
-14. **J. Du** and Yang Yang, _Maximum-principle-preserving third order LDG method for convection-diffusion equations on overlapped meshes_, submitted to Journal of Computational Physics.
+13. **J. Du**, Yang Yang and E.T. Chung, _Stability analysis and error estimates of local discontinuous Galerkin methods for convection-diffusion equations on overlapping meshes_, submitted to ESAIM: Mathematical Modelling and Numerical Analysis.
+14. **J. Du** and Yang Yang, _Maximum-principle-preserving third order LDG method for convection-diffusion equations on overlapping meshes_, submitted to Journal of Computational Physics.
 
 
 [back](README.md)
