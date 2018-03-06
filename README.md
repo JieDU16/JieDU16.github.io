@@ -6,10 +6,7 @@
 
 **Address:** Room 135, Jin Chun Yuan West Building, Tsinghua University, Beijing 100084, P.R. China 
 
-   
-
 ### Research Interests
-
 1. Numerical solutions for PDEs using:
 - Finite element discontinuous Galerkin (DG) methods,
 - Finite difference weighted essentially non-oscillatory (WENO) methods, 
@@ -20,9 +17,4 @@
 ### [Publications](publications.md)
 
 ### [Teaching](teaching.md)
-
-
-
-
-
 
