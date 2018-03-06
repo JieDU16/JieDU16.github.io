@@ -1,12 +1,13 @@
+![Image](src)
 
 #### Assistant Professor
 #### Yau Mathematical Sciences Center
 #### Tsinghua University 
 
-**Office: Room 135, Jin Chun Yuan West Building Beijing 100084, P.R. China** 
 
-**E-mail: jdu@tsinghua.edu.cn**
+**_Office_: Room 135, Jin Chun Yuan West Building Beijing 100084, P.R. China** 
 
+**_E-mail_: jdu@tsinghua.edu.cn**
 
 
 [link to my CV](CV.pdf)
@@ -14,21 +15,19 @@
 
 
 ### Research Interests
-```
-- Numerical solutions for PDEs using:
-(1) Finite element discontinuous Galerkin (DG) methods,
-(2) Finite difference weighted essentially non-oscillatory (WENO) methods, 
-(3) Correction procedure via reconstruction (CPR) methods.
-- Continuum modeling and numerical methods for traffic flow problems.
-- Computational fluid dynamics.
+
+1. Numerical solutions for PDEs using:
+- Finite element discontinuous Galerkin (DG) methods,
+- Finite difference weighted essentially non-oscillatory (WENO) methods, 
+- Correction procedure via reconstruction (CPR) methods.
+2. Continuum modeling and numerical methods for traffic flow problems.
+3. Computational fluid dynamics.
  
-1. Numbered
-2. List
 
- _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
