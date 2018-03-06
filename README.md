@@ -12,8 +12,6 @@
 
 [link to my CV](CV.pdf)    
 
-### [Teaching](teaching.md)
-
 ### Research Interests
 
 1. Numerical solutions for PDEs using:
@@ -22,5 +20,9 @@
 - Correction procedure via reconstruction (CPR) methods.
 2. Continuum modeling and numerical methods for traffic flow problems.
 3. Computational fluid dynamics.
+
+### [Publications](publications.md)
+
+### [Teaching](teaching.md)
 
 
