@@ -9,6 +9,7 @@
 
 **_E-mail_: jdu@tsinghua.edu.cn**
 
+[link to my CV](CV.pdf)
 
 ### Research Interests
 
@@ -19,7 +20,5 @@
 2. Continuum modeling and numerical methods for traffic flow problems.
 3. Computational fluid dynamics.
  
-
-[link to my CV](CV.pdf)
 
 [Personal Page](https://jiedu16.github.io).
