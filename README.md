@@ -12,7 +12,7 @@
 
 
 
-[link to my CV](CV.pdf)    
+[Curriculum vitae](CV.pdf)    
 
 ### [Research Interests](research.md)
 
