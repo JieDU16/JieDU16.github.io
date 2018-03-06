@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Personal Information
+
 [link to my CV](CV.pdf)
 
 
