@@ -5,10 +5,6 @@ h2  {
     margin: 0px 0;
 }
 
-#header_wrap .inner {
-    padding: 50px 10px 0px 10px
-}
-
 #project_title {
     position: absolute;
     top: 0;
@@ -20,3 +16,7 @@ h2  {
 }
 
 @import "{{ site.theme }}";
+
+#header_wrap .inner {
+    padding: 50px 10px 30px 10px
+}
