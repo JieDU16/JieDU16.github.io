@@ -1,6 +1,23 @@
-- Instructor: Discontinuous Galerkin Methods, Tsinghua University, Spring 2018.
-- Instructor: Linear Algebra, Tsinghua University, Fall 2017.
-- Instructor: Linear Algebra, The Chinese University of Hong Kong, Summer 2016.
-- Teaching Assistant: Numerical Methods for Partial Differential Equations, University of Science and Technology of China, Fall 2013.
-- Teaching Assistant: Calculus, University of Science and Technology of China, Spring 2012.
-- Teaching Assistant: Computational Methods, University of Science and Technology of China, Spring 2011.
+- Instructor: _Discontinuous Galerkin Methods_, Tsinghua University, Spring 2018.
+
+- Instructor: _Linear Algebra_, Tsinghua University, Fall 2017.
+
+- Instructor: _Linear Algebra_, The Chinese University of Hong Kong, Summer 2016.
+
+- Teaching Assistant: _Numerical Methods for Partial Differential Equations_, University of Science and Technology of China, Fall 2013.
+
+- Teaching Assistant: _Calculus_, University of Science and Technology of China, Spring 2012.
+
+- Teaching Assistant: _Computational Methods_, University of Science and Technology of China, Spring 2011.
+
+
+
+
+
+
+
+
+
+
+
+
