@@ -12,7 +12,7 @@
 
 
 
-[Curriculum vitae](CV.pdf)    
+[Curriculum Vitae](CV.pdf)    
 
 ### Research Interests
 
