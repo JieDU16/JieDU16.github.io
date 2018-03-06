@@ -1,17 +1,5 @@
 ![Image](jdu.JPG)
 
-**Assistant Professor**
-
-**Yau Mathematical Sciences Center**
-
-**Tsinghua University**
-
-**E-mail:** jdu@tsinghua.edu.cn
-
-**Address:** Room 135, Jin Chun Yuan West Building, Tsinghua University, Beijing 100084, P.R. China 
-
-
-
 [Curriculum Vitae](CV.pdf)    
 
 ### Research Interests
@@ -26,5 +14,11 @@
 ### [Publications](publications.md)
 
 ### [Teaching](teaching.md)
+
+**E-mail:** jdu@tsinghua.edu.cn
+
+**Address:** Room 135, Jin Chun Yuan West Building, Tsinghua University, Beijing 100084, P.R. China 
+
+
 
 
