@@ -2,3 +2,4 @@ theme: jekyll-theme-leap-day
 
 title: [Jie DU]
 description: [personal website]
+show_downloads: ["false"]
