@@ -7,9 +7,9 @@
 4. **J. Du**, S.C. Wong, C.-W. Shu and M. Zhang, _Reformulating the Hoogendoorn-Bovy predictive dynamic user-optimal model in continuum space with anisotropic condition_, Transportation Research Part B, v79 (2015), pp. 189-217.
 5. **J. Du**, C.-W. Shu and M. Zhang, _A simple weighted essentially non-oscillatory limiter for the correction procedure via reconstruction (CPR) framework on unstructured meshes_, Applied Numerical Mathematics, v90 (2015), pp.146-167.
 6. **J. Du** and C.-W. Shu, _A high order stable conservative method for solving hyperbolic conservation laws on arbitrarily distributed point clouds_, SIAM Journal on Scientific Computing, v38 (2016), pp. A3094-A3128.
-7. E.T. Chung, **J. Du** (corresponding author) and M.C. Yuen, _An adaptive SDG method for the Stokes system_, Journal of Scientific Computing, v70 (2017), pp. 766-792.
+7. E.T. Chung, **J. Du** and M.C. Yuen, _An adaptive SDG method for the Stokes system_, Journal of Scientific Computing, v70 (2017), pp. 766-792.
 8. J.C. Long, W.Y. Szeto, **J. Du**, and R.C.P. Wong, _A dynamic taxi traffic assign- ment model: a two-level continuum transportation system approach_, Transportation Research Part B, v100 (2017), pp. 222-254.
-9. E.T. Chung, **J. Du** (corresponding author) and C.Y. Lam, _Discontinuous Galerkin methods with staggered hybridization for linear elastodynamics_, Computers & Mathematics with Applications, v74 (2017), pp. 1198-1214.
+9. E.T. Chung, **J. Du** and C.Y. Lam, _Discontinuous Galerkin methods with staggered hybridization for linear elastodynamics_, Computers & Mathematics with Applications, v74 (2017), pp. 1198-1214.
 2
 10. **J. Du**, C.-W. Shu, _Positivity-preserving high-order schemes for conservation laws on arbitrarily distributed point clouds with a simple WENO limiter_, International Journal of Numerical Analysis and Modeling, v15 (2018), pp. 1-25.
 11. **J. Du**, E.T. Chung, _An adaptive staggered discontinuous Galerkin method for the steady state convection-diffusion equation_, Journal of Scientific Computing, to appear.
