@@ -12,7 +12,7 @@
 
 [link to my CV](CV.pdf)    
 
-[Teaching](teaching.md)
+## [Teaching](teaching.md)
 
 ### Research Interests
 
