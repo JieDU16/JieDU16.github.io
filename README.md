@@ -1,4 +1,4 @@
-![Image](src)
+![Image](profile.jpg)
 
 #### Assistant Professor
 #### Yau Mathematical Sciences Center
