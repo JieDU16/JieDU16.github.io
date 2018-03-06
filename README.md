@@ -1,4 +1,6 @@
-![Image](jdu.JPG) [Curriculum Vitae](CV.pdf) 
+![Image](jdu.JPG) 
+
+[Curriculum Vitae](CV.pdf) 
 
 **E-mail:** jdu@tsinghua.edu.cn
 
