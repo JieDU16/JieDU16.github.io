@@ -5,7 +5,8 @@
 
 **Office: Room 135, Jin Chun Yuan West Building Beijing 100084, P.R. China** 
 
-`E-mail: jdu@tsinghua.edu.cn`
+**E-mail: jdu@tsinghua.edu.cn**
+
 
 
 [link to my CV](CV.pdf)
@@ -14,24 +15,20 @@
 [editor on GitHub](https://github.com/JieDU16/JieDU16.github.io/edit/master/README.md) 
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Research Interests
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
+- Numerical solutions for PDEs using:
+(1) Finite element discontinuous Galerkin (DG) methods,
+(2) Finite difference weighted essentially non-oscillatory (WENO) methods, 
+(3) Correction procedure via reconstruction (CPR) methods.
+- Continuum modeling and numerical methods for traffic flow problems.
+- Computational fluid dynamics.
+ 
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+ _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
