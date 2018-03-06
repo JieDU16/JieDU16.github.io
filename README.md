@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+[link to my CV](CV.pdf)
+
 
 You can use the [editor on GitHub](https://github.com/JieDU16/JieDU16.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
