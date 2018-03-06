@@ -1,5 +1,5 @@
 
-## Publications in Refereed Journals (Appeared or Accepted)
+### Publications in Refereed Journals (Appeared or Accepted)
 
 1. **J. Du**, S.C. Wong, C.-W. Shu, T. Xiong, M. Zhang and K. Choi, _Revisiting Jiang’s dynamic continuum model for urban cities_, Transportation Research Part B, v56 (2013), pp.96-119.
 2. Y.Z. Tao, Y.Q. Jiang, **J. Du**, S.C. Wong, P. Zhang, Y.H. Xia and K. Choi, _Dynamic system-optimal traffic assignment for a city using the continuum modeling approach_, Journal of Advanced Transportation, v48 (2014), pp.782-797.
@@ -16,7 +16,7 @@
 12. **J. Du**, E.T. Chung, Ming Fai Lam and Xiao-Ping Wang, _Discontinuous Galerkin method with staggered hybridization for a class of nonlinear Stokes equations_, Journal of Scientific Computing, to appear.
 
 
-## Preprint
+### Preprint
 
 13. **J. Du**, E.T. Chung and Yang Yang, _Stability analysis and error estimates of local discontinuous Galerkin methods for convection-diffusion equations on overlapped meshes_, submitted to ESAIM: Mathematical Modelling and Numerical Analysis.
 14. **J. Du** and Yang Yang, _Maximum-principle-preserving third order LDG method for convection-diffusion equations on overlapped meshes_, submitted to Journal of Computational Physics.
