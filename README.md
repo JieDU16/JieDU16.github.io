@@ -11,7 +11,7 @@
 - Finite element discontinuous Galerkin (DG) methods
 - Finite difference weighted essentially non-oscillatory (WENO) methods 
 - Correction procedure via reconstruction (CPR) methods
-2. Continuum modeling and numerical methods for traffic flow problems.
+2. Modeling and numerical simulations for traffic flow and intelligent transport problems.
 3. Computational fluid dynamics.
 
 ### [Publications](publications.md)
