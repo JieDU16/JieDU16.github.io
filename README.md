@@ -12,7 +12,7 @@
 - Finite difference weighted essentially non-oscillatory (WENO) methods 
 - Correction procedure via reconstruction (CPR) methods
 2. High order numerical methods on point clouds.
-3. Modeling and numerical simulations for traffic flow and intelligent transport problems.
+3. Modeling and numerical simulations for traffic flow problems.
 4. Computational fluid dynamics.
 
 ### [Publications](publications.md)
