@@ -12,14 +12,14 @@
 9. E.T. Chung, **J. Du** and C.Y. Lam, _Discontinuous Galerkin methods with staggered hybridization for linear elastodynamics_, Computers & Mathematics with Applications, v74 (2017), pp. 1198-1214.
 2
 10. **J. Du**, C.-W. Shu, _Positivity-preserving high-order schemes for conservation laws on arbitrarily distributed point clouds with a simple WENO limiter_, International Journal of Numerical Analysis and Modeling, v15 (2018), pp. 1-25.
-11. **J. Du**, E.T. Chung, _An adaptive staggered discontinuous Galerkin method for the steady state convection-diffusion equation_, Journal of Scientific Computing, to appear.
-12. **J. Du**, E.T. Chung, Ming Fai Lam and Xiao-Ping Wang, _Discontinuous Galerkin method with staggered hybridization for a class of nonlinear Stokes equations_, Journal of Scientific Computing, to appear.
-
+11. **J. Du**, E.T. Chung, _An adaptive staggered discontinuous Galerkin method for the steady state convection-diffusion equation_, Journal of Scientific Computing, (2018), pp. 1-29.
+12. **J. Du**, E.T. Chung, Ming Fai Lam and Xiao-Ping Wang, _Discontinuous Galerkin method with staggered hybridization for a class of nonlinear Stokes equations_, Journal of Scientific Computing, v76 (2018), pp. 1547-1577.
+13. **J. Du** and Yang Yang, Maximum-principle-preserving third-order local discontinuous Galerkin method for convection-diffusion equations on overlapping meshes, Journal of Computational Physics, to appear.
 
 ### Preprints
 
-13. **J. Du**, Yang Yang and E.T. Chung, _Stability analysis and error estimates of local discontinuous Galerkin methods for convection-diffusion equations on overlapping meshes_, submitted to ESAIM: Mathematical Modelling and Numerical Analysis.
-14. **J. Du** and Yang Yang, _Maximum-principle-preserving third order LDG method for convection-diffusion equations on overlapping meshes_, submitted to Journal of Computational Physics.
+14. **J. Du**, Yang Yang and E.T. Chung, Stability analysis and error estimates of lo- cal discontinuous Galerkin methods for convection-diffusion equations on overlapping meshes, submitted to BIT Numerical Mathematics.
+15. **Jie Du**, Cheng Wang, Chengeng Qian and Yang Yang, High-order bound-preserving discontinuous Galerkin methods for stiff multispecies detonation, submitted to SIAM Journal on Scientific Computing.
 
 
 [back](README.md)
