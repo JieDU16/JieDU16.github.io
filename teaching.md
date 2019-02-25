@@ -15,8 +15,6 @@
 - Teaching Assistant: _Computational Methods_, University of Science and Technology of China, Spring 2011.
 
 
-[Curriculum Vitae](Finite Difference Schemes and Partial Differential Equations.pdf)
-
 [back](README.md)
 
 
