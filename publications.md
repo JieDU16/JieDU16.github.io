@@ -15,11 +15,12 @@
 11. **J. Du**, E.T. Chung, _An adaptive staggered discontinuous Galerkin method for the steady state convection-diffusion equation_, Journal of Scientific Computing, (2018), pp. 1-29.
 12. **J. Du**, E.T. Chung, Ming Fai Lam and Xiao-Ping Wang, _Discontinuous Galerkin method with staggered hybridization for a class of nonlinear Stokes equations_, Journal of Scientific Computing, v76 (2018), pp. 1547-1577.
 13. **J. Du** and Yang Yang, Maximum-principle-preserving third-order local discontinuous Galerkin method for convection-diffusion equations on overlapping meshes, Journal of Computational Physics, to appear.
+14. **Jie Du**, Cheng Wang, Chengeng Qian and Yang Yang, High-order bound-preserving discontinuous Galerkin methods for stiff multispecies detonation, SIAM Journal on Scientific Computing, to appear.
 
 ### Preprints
 
-14. **J. Du**, Yang Yang and E.T. Chung, Stability analysis and error estimates of lo- cal discontinuous Galerkin methods for convection-diffusion equations on overlapping meshes, submitted to BIT Numerical Mathematics.
-15. **Jie Du**, Cheng Wang, Chengeng Qian and Yang Yang, High-order bound-preserving discontinuous Galerkin methods for stiff multispecies detonation, submitted to SIAM Journal on Scientific Computing.
+15. **J. Du**, Yang Yang and E.T. Chung, Stability analysis and error estimates of lo- cal discontinuous Galerkin methods for convection-diffusion equations on overlapping meshes, submitted to BIT Numerical Mathematics.
+16. **J. Du**, Yang Yang, Third-order conservative sign-preserving and steady-state-preserving time integrations and applications in stiff multispecies and multireaction detonations, submitted to SIAM Journal on Numerical Analysis.
 
 
 [back](README.md)
