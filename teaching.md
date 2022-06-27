@@ -1,18 +1,22 @@
-- Instructor: _Numerical Methods for PDEs_, Tsinghua University, Spring 2019.
+### At Tsinghua University
+-  _Linear Algebra_. Instructor.  Fall 2017, Fall 2018, Fall 2019, Fall 2020, Fall 2021.
 
-- Instructor: _Linear Algebra_, Tsinghua University, Fall 2018.
+-  _Discontinuous Galerkin Methods_. Instructor.  Spring 2018, Spring 2020, Spring 2022.
 
-- Instructor: _Discontinuous Galerkin Methods_, Tsinghua University, Spring 2018.
+-  _Numerical Methods for PDEs_. Instructor. Spring 2019.
 
-- Instructor: _Linear Algebra_, Tsinghua University, Fall 2017.
 
-- Instructor: _Linear Algebra_, The Chinese University of Hong Kong, Summer 2016.
+### At The Chinese University of Hong Kong
 
-- Teaching Assistant: _Numerical Methods for Partial Differential Equations_, University of Science and Technology of China, Fall 2013.
+- _Linear Algebra_. Instructor. Summer 2016. 
 
-- Teaching Assistant: _Calculus_, University of Science and Technology of China, Spring 2012.
+### At University of Science and Technology of China
 
-- Teaching Assistant: _Computational Methods_, University of Science and Technology of China, Spring 2011.
+- _Numerical Methods for Partial Differential Equations_. Teaching Assistant. Fall 2013.
+
+- _Calculus_. Teaching Assistant. Spring 2012.
+
+- _Computational Methods_. Teaching Assistant. Spring 2011.
 
 
 [back](README.md)
