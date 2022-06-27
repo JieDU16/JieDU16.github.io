@@ -3,7 +3,7 @@
 
 -  _Discontinuous Galerkin Methods_. Instructor.  Spring 2018, Spring 2020, Spring 2022.
 
--  _Numerical Methods for PDEs_. Instructor. Spring 2019.
+-  _Numerical Methods for Partial Differential Equations_. Instructor. Spring 2019.
 
 
 ### At The Chinese University of Hong Kong
