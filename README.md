@@ -1,4 +1,4 @@
-![Image](jdu.JPG) 
+![Image](杜洁证件照.jpg) 
 
 [Curriculum Vitae](CV.pdf) 
 
