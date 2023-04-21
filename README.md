@@ -1,4 +1,4 @@
-![Image](杜洁证件照.jpg) 
+![Image](杜洁证件照2.jpg) 
 
 [Curriculum Vitae](CV.pdf) 
 
