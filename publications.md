@@ -19,15 +19,20 @@
 16. J. Du, Y. Yang, _Third-order conservative sign-preserving and steady-state-preserving time integrations and applications in stiff multispecies and multireaction detonations_, Journal of Computational Physics, v395 (2019), pp.489-510.
 17. J. Du and E.T. Chung, _Mortar DG method with staggered hybridization for Rayleigh waves simulation_, Communications in Computational Physics, v29 (2021), pp.111-127.
 18. H. Liang, J. Du and S.C. Wong, _A continuum model for pedestrian flow with explicit consideration of crowd force and panic effects_, Transportation Research Part B, v149 (2021), pp. 100-117.
-19. J. Du, E.T. Chung and Y. Yang, _Maximum-principle-preserving local discontinuous Galerkin methods for Allen-Cahn equations_, Communications on Applied Mathematics and Computation, 2021.
-20. J. Du and Y. Yang, _High-order bound-preserving finite difference methods for multispecies and multireaction detonations_, Communications on Applied Mathematics and Computation, 2021. 
-21. J. Du, C.-W. Shu and X. Zhong, _An improved simple WENO limiter for discontinuous Galerkin methods solving hyperbolic systems on unstructured meshes_, Journal of
-Computational Physics, to appear.
+19. J. Du, E.T. Chung and Y. Yang, _Maximum-principle-preserving local discontinuous Galerkin methods for Allen-Cahn equations_, Communications on Applied Mathematics and Computation, v4 (2022), pp.353-379. Special issue on discontinuous Galerkin methods. 
+20. J. Du and Y. Yang, _High-order bound-preserving finite difference methods for multispecies and multireaction detonations_, Communications on Applied Mathematics and Computation, 2021, Special issue on WENO methods. 
+21. J. Du, C.-W. Shu and X. Zhong, _An improved simple WENO limiter for discontinuous Galerkin methods solving hyperbolic systems on unstructured meshes_, Journal of Computational Physics, v467 (2022), 111424. 
+22. J. Du and Y. Yang, _High-order bound-preserving discontinuous Galerkin methods for multicomponent chemically reacting flows_, Journal of Computational Physics, v469 (2022), 111548.
+23. L. Yang, C.-W. Shu, S.C. Wong, M. Zhang, and J. Du, On the existence and uniqueness properties of the Hoogendoorn-Bovy pedestrian flow model, Transportmetrica B: Transport Dynamics, v11 (2023), pp. 912-937. 
+24. T. Fan, S.C. Wong, Z. Zhang, and J. Du, A dynamically bi-orthogonal solution method for a stochastic Lighthill-Whitham-Richards traffic flow model, Computer-Aided Civil and Infrastructure Engineering, to appear.
 
 ### Preprints
 
-22. H. Liang, J. Du, S.C. Wong and L. Yang, _Efficient finite-volume method on triangular meshes for solving a higher-order continuum model of pedestrian flow with consideration of panic_, submitted to Computer-Aided Civil and Infrastructure Engineering. 
-23. J. Du and Y. Yang, _High-order bound-preserving discontinuous Galerkin methods for multicomponent chemically reacting flows_, submitted to Journal of Computational Physics.
+25. J. Du, Y. Liu and Y. Yang, An oscillation-free bound-preserving discontinuous Galerkin method for multicomponent chemically reacting flows, submitted to Journal of Scientific Computing.
+26. C. Wu, L. Yang, J. Du, X. Pei and S.C. Wong, Continuum dynamic traffic models with novel local routechoice strategies for urban cities, submitted to Transportation Research Part B.
+27. L. Yang, H. Liang, J. Du and S.C. Wong, Positivity-Preserving Discontinuous Galerkin Methods on Triangular Meshes for Macroscopic Pedestrian Flow Model, submitted to Journal of Advanced  Transportation.
+28. L. Yang, J. Du, S.C. Wong and C.-W. Shu, Boundedly rational continuum user equilibrium model for simultaneous departure time and route choice in traffic assignment problems, submitted to Transportation Research Part B.
+29. H. Liang, L. Yang, J. Du, C.-W. Shu, and S.C. Wong*, Crowd pressure and turbulence in crowd disasters, submitted to PNAS Nexus.
 
 
 [back](README.md)
