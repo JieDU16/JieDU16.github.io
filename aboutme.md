@@ -20,7 +20,14 @@
 - 2019-2021: High Order Discontinuous Galerkin Methods on Point Clouds. _Youth Program of National Natural Science Foundation of China_. Principle Investigator.
 - 2023: Tsinghua University Initiative Scientific Research Program. Principle Investigator.
 - 2022: Tsinghua University Initiative Scientific Research Program. Principle Investigator.
-
+  
+### Awards 
+- Paper Excellence Award, 2022, Tsinghua University.
+- Annual Excellence Award, 2021, Tsinghua University.
+- Research Excellence Award, 2020, Tsinghua University.
+- Paper Excellence Award, 2019, Tsinghua University.
+- The Dean’s Excellence Award of Chinese Academy of Sciences.
+- Qiu Shi Graduate Student Scholarship, 2014
 
 [back](README.md)
 
