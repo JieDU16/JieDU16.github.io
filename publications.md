@@ -22,18 +22,18 @@
 19. J. Du, E.T. Chung and Y. Yang, _Maximum-principle-preserving local discontinuous Galerkin methods for Allen-Cahn equations_, Communications on Applied Mathematics and Computation, v4 (2022), pp.353-379. Special issue on discontinuous Galerkin methods.
 20. J. Du, C.-W. Shu and X. Zhong, _An improved simple WENO limiter for discontinuous Galerkin methods solving hyperbolic systems on unstructured meshes_, Journal of Computational Physics, v467 (2022), 111424.
 21. J. Du and Y. Yang, _High-order bound-preserving discontinuous Galerkin methods for multicomponent chemically reacting flows_, Journal of Computational Physics, v469 (2022), 111548.
-22. L. Yang, C.-W. Shu, S.C. Wong, M. Zhang, and J. Du, On the existence and uniqueness properties of the Hoogendoorn-Bovy pedestrian flow model, Transportmetrica B: Transport Dynamics, v11 (2023), pp. 912-937.
+22. L. Yang, C.-W. Shu, S.C. Wong, M. Zhang, and J. Du, _On the existence and uniqueness properties of the Hoogendoorn-Bovy pedestrian flow model_, Transportmetrica B: Transport Dynamics, v11 (2023), pp. 912-937.
 23. T. Fan, S.C. Wong, Z. Zhang, and J. Du, A dynamically bi-orthogonal solution method for a stochastic Lighthill-Whitham-Richards traffic flow model, Computer-Aided Civil and Infrastructure Engineering, v38 (2023), pp. 912-937.
 24. J. Du and Y. Yang, _High-order bound-preserving finite difference methods for multispecies and multireaction detonations_, Communications on Applied Mathematics and Computation, v5 (2023), pp.31-63, Special issue on WENO methods.
 25. J. Du, Y. Liu, and Y. Yang, _An oscillation-free bound-preserving discontinuous Galerkin method for multi-component chemically reacting flows_, Journal of Scientific Computing, v95 (2023), article number 90.
-26. L. Yang, H. Liang, J. Du, and S.C. Wong, Positivity-Preserving Discontinuous Galerkin Methods on Triangular Meshes for Macroscopic Pedestrian Flow Model, Journal of Advanced Transportation, v2023 (2023), article ID 7245723.
+26. L. Yang, H. Liang, J. Du, and S.C. Wong, _Positivity-Preserving Discontinuous Galerkin Methods on Triangular Meshes for Macroscopic Pedestrian Flow Model_, Journal of Advanced Transportation, v2023 (2023), article ID 7245723.
 27. C. Wu, L. Yang, J. Du, X. Pei, and S.C. Wong, _Continuum dynamic traffic models with novel local route-choice strategies for urban cities_, Transportation Research Part B, v181 (2024), article number 102888.
-28. J. Du, Y. Yang, and F. Zhu, Well-balanced positivity-preserving discontinuous Galerkin methods for Euler equations with gravitation, Journal of Computational Physics, v505 (2024), article number 112877.
+28. J. Du, Y. Yang, and F. Zhu, _Well-balanced positivity-preserving discontinuous Galerkin methods for Euler equations with gravitation_, Journal of Computational Physics, v505 (2024), article number 112877.
 29. H. Liang, L. Yang, J. Du, S.C. Wong, and C.-W. Shu, _Modeling crowd pressure and turbulence through a mixed-type continuum model for multidirectional pedestrian flow_, Transportmetrica B: Transport Dynamics, v12 (2024), article number 2328774. 
 
 ### Preprints
 
-30. L. Yang, J. Du, S.C. Wong and C.-W. Shu, Boundedly rational continuum user equilibrium model for simultaneous departure time and route choice in traffic assignment problems, submitted.
+30. L. Yang, J. Du, S.C. Wong and C.-W. Shu, _Boundedly rational continuum user equilibrium model for simultaneous departure time and route choice in traffic assignment problems_, submitted.
 
 
 
