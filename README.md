@@ -2,9 +2,9 @@
 
 [Curriculum Vitae](CV.pdf) 
 
-**E-mail:** jdu@tsinghua.edu.cn
+**E-mail:** jdu@math.ecnu.edu.cn
 
-**Address:** Room 129, Jin Chun Yuan West Building, Tsinghua University, Beijing 100084, P.R. China 
+**Address:** Math Building, East China Normal University, Shanghai 200241, P.R. China 
 
 ### Research Interests
 1. High order numerical methods for PDEs.
