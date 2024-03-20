@@ -9,7 +9,7 @@
 ### Professional Experience
 - _Research Fellow_, East China Normal University, 11/2023-Present.
 - _Assistant Professor_, Tsinghua University,  09/2017-11/2023.
-- _Postdoctoral Fellow_, The Chinese University of Hong Kong, 08/2015-08/2017.
+- _Postdoctoral Fellow_, The Chinese University of Hong Kong, 08/2015-08/2017.          
   Mentor: Eric T. Chung.
 - _Research Assistant_, The University of Hong Kong, 07/2014-08/2014. Mentor: S.C. Wong.
 - _Research Assistant_, The University of Hong Kong, 07/2012-01/2013. Mentor: S.C. Wong.
