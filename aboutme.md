@@ -27,7 +27,7 @@
 - Research Excellence Award, 2020, Tsinghua University.
 - Paper Excellence Award, 2019, Tsinghua University.
 - The Dean’s Excellence Award of Chinese Academy of Sciences, 2015.
-- Qiu Shi Graduate Student Scholarship, 2014
+- Qiu Shi Graduate Student Scholarship, 2014.
 
 [back](README.md)
 
