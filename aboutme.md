@@ -15,5 +15,12 @@
 - _Research Assistant_, The University of Hong Kong, 07/2012-01/2013. Mentor: S.C. Wong.
 - _Research Assistant_, The University of Hong Kong, 07/2011-01/2012. Mentor: S.C. Wong.
 
+### Grants
+- 2021-2026: Modeling and numerical computation of partial differential equations for aeroengine nacelle problems. _National Key R&D Program of China_. Subprogram Principle Investigator.
+- 2019-2021: High Order Discontinuous Galerkin Methods on Point Clouds. _Youth Program of National Natural Science Foundation of China_. Principle Investigator.
+- 2023: Tsinghua University Initiative Scientific Research Program. Principle Investigator.
+- 2022: Tsinghua University Initiative Scientific Research Program. Principle Investigator.
+
+
 [back](README.md)
 
