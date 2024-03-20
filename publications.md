@@ -23,7 +23,7 @@
 20. J. Du, C.-W. Shu and X. Zhong, _An improved simple WENO limiter for discontinuous Galerkin methods solving hyperbolic systems on unstructured meshes_, Journal of Computational Physics, v467 (2022), 111424.
 21. J. Du and Y. Yang, _High-order bound-preserving discontinuous Galerkin methods for multicomponent chemically reacting flows_, Journal of Computational Physics, v469 (2022), 111548.
 22. L. Yang, C.-W. Shu, S.C. Wong, M. Zhang, and J. Du, _On the existence and uniqueness properties of the Hoogendoorn-Bovy pedestrian flow model_, Transportmetrica B: Transport Dynamics, v11 (2023), pp. 912-937.
-23. T. Fan, S.C. Wong, Z. Zhang, and J. Du, A dynamically bi-orthogonal solution method for a stochastic Lighthill-Whitham-Richards traffic flow model, Computer-Aided Civil and Infrastructure Engineering, v38 (2023), pp. 912-937.
+23. T. Fan, S.C. Wong, Z. Zhang, and J. Du, A dynamically bi-orthogonal solution method for a stochastic Lighthill-Whitham-Richards traffic flow model, Computer-Aided Civil and Infrastructure Engineering, v38 (2023), pp.1447-1461.
 24. J. Du and Y. Yang, _High-order bound-preserving finite difference methods for multispecies and multireaction detonations_, Communications on Applied Mathematics and Computation, v5 (2023), pp.31-63, Special issue on WENO methods.
 25. J. Du, Y. Liu, and Y. Yang, _An oscillation-free bound-preserving discontinuous Galerkin method for multi-component chemically reacting flows_, Journal of Scientific Computing, v95 (2023), article number 90.
 26. L. Yang, H. Liang, J. Du, and S.C. Wong, _Positivity-Preserving Discontinuous Galerkin Methods on Triangular Meshes for Macroscopic Pedestrian Flow Model_, Journal of Advanced Transportation, v2023 (2023), article ID 7245723.
