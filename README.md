@@ -11,6 +11,8 @@
 2. Modeling and numerical simulations for traffic flow problems.
 3. Computational fluid dynamics.
 
+### [About me](aboutme.md)
+
 ### [Publications](publications.md)
 
 ### [Teaching](teaching.md)
