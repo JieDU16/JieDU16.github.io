@@ -33,7 +33,7 @@
 
 ### Preprints
 
-30. L. Yang, J. Du, S.C. Wong and C.-W. Shu, _Boundedly rational continuum user equilibrium model for simultaneous departure time and route choice in traffic assignment problems_, submitted.
+
 
 
 
