@@ -32,6 +32,7 @@
 29. H. Liang, L. Yang, J. Du, S.C. Wong, and C.-W. Shu, _Modeling crowd pressure and turbulence through a mixed-type continuum model for multidirectional pedestrian flow_, Transportmetrica B: Transport Dynamics, v12 (2024), article number 2328774.
 30. L. Yang, J. Du, S.C. Wong and C.-W. Shu, _Boundedly rational departure time choice in a dynamic continuum user equilibrium model for an urban city_, Transportation Research Part B, v187 (2024), article number 103038.
 31. T. Fan, S.C. Wong, Z. Zhang, and J. Du, _Stochastic Lighthill-Whitham-Richards traffic flow model for nonlinear speed-density relationships_, Transportmetrica B: Transport Dynamics, v12 (2024), article number 2419402.
+32. J. Du, C. Fan, and K. Wu, _Oscillation-eliminating discontinuous Galerkin methods for multicomponent chemically reacting flows_, Annals of Applied Mathematics, v40 (2024), pp. 412–444.
 
 
 ### Preprints
